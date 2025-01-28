@@ -18,7 +18,7 @@ Dependencies:
 - **Tkinter**: For building the graphical user interface.
   
  Contact:
-- **Author:Keyur Parmar
+- **Author:** Keyur Parmar
 - **Email:** senkeyur51@gmail.com
 
 
